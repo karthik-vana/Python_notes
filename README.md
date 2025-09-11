@@ -1,2 +1,1 @@
-# Python_notes
-structured way to learn python from scratch 
+**python is a powerful language**
